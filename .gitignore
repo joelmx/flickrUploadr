@@ -1,0 +1,9 @@
+.loadpath
+.project
+.pydevproject
+.settings
+.DS_Store
+*.pyc
+
+uploadr/
+.flickrToken
