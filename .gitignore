@@ -7,3 +7,5 @@
 
 uploadr/
 .flickrToken
+/python2/__pycache__
+/python3/__pycache__
