@@ -1,6 +1,11 @@
 Uploadr.py
 ==========
 
+UPDATE - This script has been going around for a few years now. My best effor to track it can be at the end of my post at http://joelgil.com/2011/10/uploading-photos-to-flickr-via-command-line-for-n00bs/
+Hope this helps anyone out there.
+
+Description
+-----------
 Uploadr.py is a simple Python script for uploading your photos to Flickr. Unlike
 many GUI applications out there, it lends itself to automation; and because it's
 free and open source, you can just change it if you don't like it.
